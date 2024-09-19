@@ -1,0 +1,57 @@
+''''
+You are given principal amount, rate of interest per annum, and time in years. You need to calculate the simple interest.
+Input and Output Format
+Input Format:
+The first line contains the principal amount (principal).
+The second line contains the rate of interest (rate) per annum.
+The third line contains the time (time) in years.
+Output Format:
+A single line containing the simple interest calculated.
+''''
+Input and Output Format
+Input Format:
+The first line contains the principal amount (principal).
+The second line contains the rate of interest (rate) per annum.
+The third line contains the time (time) in years.
+Output Format:
+A single line containing the simple interest calculated.
+Sample Input 1
+1000
+5
+2
+Sample Output 1
+100.0
+Sample Input 2
+5000
+8.5
+3
+Sample Output 2
+1275.0
+Sample Input 3
+5000
+8.5
+3
+Sample Output 3
+525.0
+8)
+You are given a temperature in Celsius. You need to convert it to Fahrenheit.
+Input and Output Format
+Input Format:
+A single integer celsius.
+Output Format:
+A single line containing the temperature in Fahrenheit.
+To convert a temperature from Celsius to Fahrenheit, you use the following formula:
+Multiply the temperature in Celsius by 9/5.
+Add 32 to the result of step 1.
+Sample Input 1
+0
+Sample Output 1
+32.0
+Sample Input 2
+25
+Sample Output 2
+77.0
+Sample Input 3
+100
+Sample Output 3
+212.0
